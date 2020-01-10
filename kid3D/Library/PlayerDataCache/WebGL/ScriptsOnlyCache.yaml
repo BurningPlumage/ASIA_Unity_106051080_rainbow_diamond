@@ -10,6 +10,7 @@ ScriptsOnlyBuild:
     - cube
     - goal_a
     - itemset_a
+    - sttext
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
@@ -20,6 +21,7 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -94,6 +96,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11406}
     - Class: 114
       Script: {instanceID: 11432}
+    - Class: 114
+      Script: {instanceID: 46782}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -605,6 +609,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ad949e85d7496621ecaec5edc336cb40
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: sttext
   platform: 20
   scenePathNames:
   - Assets/real_assets/Scenes/sky1.unity
