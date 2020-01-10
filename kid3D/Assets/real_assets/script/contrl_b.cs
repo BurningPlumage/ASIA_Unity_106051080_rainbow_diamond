@@ -59,11 +59,11 @@ public class contrl_b : MonoBehaviour
 
         if (Input.GetKey(KeyCode.D) && canm) 
         {
-            transform.Rotate(0, 80*Time.deltaTime, 0);
+            transform.Rotate(0, 100*Time.deltaTime, 0);
         }
         if (Input.GetKey(KeyCode.A) && canm) 
         {
-            transform.Rotate(0, -80*Time.deltaTime, 0);
+            transform.Rotate(0, -100*Time.deltaTime, 0);
         }
 
         if (Input.GetKey(KeyCode.W) && canm) 

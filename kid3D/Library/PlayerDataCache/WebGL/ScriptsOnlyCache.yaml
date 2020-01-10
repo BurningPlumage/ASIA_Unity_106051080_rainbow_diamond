@@ -21,6 +21,7 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -340,7 +341,7 @@ ScriptsOnlyBuild:
     className: Selectable
   - hash:
       serializedVersion: 2
-      Hash: c643722d64f4fc48bc053b3c349a2451
+      Hash: a434b63cc321c7145ba1dba82347ee1f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: itemset_a
@@ -388,7 +389,7 @@ ScriptsOnlyBuild:
     className: RemoteTestResultSender
   - hash:
       serializedVersion: 2
-      Hash: ebcdc83fb3770a863c3e811917a3727b
+      Hash: bb9ee4d4eae32bdb392cbf5d482927f4
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: goal_a

@@ -11,12 +11,16 @@ public class itemset_a : MonoBehaviour
 
     public GameObject target;
 
+    public Vector3 originposition;
+
     private void Awake()
     {
         cancatch = true;
         rig.useGravity = true;
         rig.isKinematic = false;
         coli.enabled = true;
+
+        originposition = transform.position;
     }
 
     private void LateUpdate()
@@ -37,5 +41,13 @@ public class itemset_a : MonoBehaviour
         rig.useGravity = false;
         rig.isKinematic = true;
         coli.enabled = false;
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.name == "dead line")
+        {
+            transform.position = originposition;
+        }
     }
 }
