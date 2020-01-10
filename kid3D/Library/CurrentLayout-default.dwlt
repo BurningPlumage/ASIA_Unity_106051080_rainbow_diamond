@@ -42,8 +42,8 @@ MonoBehaviour:
     y: 0
     width: 438
     height: 274
-  m_MinSize: {x: 102, y: 122}
-  m_MaxSize: {x: 4002, y: 4022}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 23}
   m_Panes:
   - {fileID: 23}
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 787, y: 716}
   m_MaxSize: {x: 18008, y: 18066}
   vertical: 1
-  controlID: 194
+  controlID: 198
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_MinSize: {x: 481, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 197
+  controlID: 201
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_MinSize: {x: 481, y: 344}
   m_MaxSize: {x: 8006, y: 8044}
   vertical: 1
-  controlID: 196
+  controlID: 200
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -247,8 +247,8 @@ MonoBehaviour:
     y: 0
     width: 724
     height: 274
-  m_MinSize: {x: 204, y: 222}
-  m_MaxSize: {x: 4004, y: 4022}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 27}
   m_Panes:
   - {fileID: 27}
@@ -328,7 +328,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1007
-  m_MinSize: {x: 950, y: 766}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &14
 MonoBehaviour:
@@ -376,7 +376,7 @@ MonoBehaviour:
   m_MinSize: {x: 787, y: 716}
   m_MaxSize: {x: 18008, y: 18066}
   vertical: 0
-  controlID: 195
+  controlID: 199
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -994,7 +994,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: ca52ffff1453ffffb053ffffdaf8ffff76fbfffff4750000a2760000
+      m_ExpandedIDs: 0adeffff54defffff0deffff76fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1106,9 +1106,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 22}
-    m_SelectedIDs: ba330000
-    m_LastClickedID: 13242
-    m_ExpandedIDs: 00000000162d00009a2d0000842f00009c2f0000943200008a340000a8b60000aab60000acb60000aeb60000b0b60000b2b6000000ca9a3b
+    m_SelectedIDs: bc330000
+    m_LastClickedID: 13244
+    m_ExpandedIDs: 00000000182d00009c2d0000862f00009e2f0000963200008c340000d8b60000dab60000dcb60000deb60000e0b60000e2b6000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1136,7 +1136,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000162d00009a2d0000842f0000943200008a340000a8b60000aab60000acb60000aeb60000b0b60000b2b60000
+    m_ExpandedIDs: 00000000182d00009c2d0000862f0000963200008c340000d8b60000dab60000dcb60000deb60000e0b60000e2b60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1163,7 +1163,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 8a3301001e2e00009a300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1309,9 +1309,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 16.21127, y: 15.705566, z: 243.18443}
+    m_Target: {x: 260.3756, y: -39.61714, z: 248.61555}
     speed: 2
-    m_Value: {x: 16.21127, y: 15.705566, z: 243.18443}
+    m_Value: {x: 260.3756, y: -39.61714, z: 248.61555}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1340,13 +1340,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.41959822, y: -0.5616618, z: 0.41116074, w: -0.5840377}
+    m_Target: {x: -0.07028637, y: -0.92414534, z: 0.2964642, w: -0.23410778}
     speed: 2
-    m_Value: {x: -0.41924623, y: -0.5611906, z: 0.4108158, w: -0.5835478}
+    m_Value: {x: -0.07067157, y: -0.9230171, z: 0.29610947, w: -0.2352959}
   m_Size:
-    m_Target: 138.54756
+    m_Target: 503.96573
     speed: 2
-    m_Value: 138.54756
+    m_Value: 482.26385
   m_Ortho:
     m_Target: 0
     speed: 2

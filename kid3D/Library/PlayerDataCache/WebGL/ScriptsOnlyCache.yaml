@@ -93,11 +93,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11064}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 11402}
     - Class: 114
-      Script: {instanceID: 11432}
+      Script: {instanceID: 11408}
     - Class: 114
-      Script: {instanceID: 46782}
+      Script: {instanceID: 11434}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -569,6 +569,12 @@ ScriptsOnlyBuild:
     className: Dropdown
   - hash:
       serializedVersion: 2
+      Hash: ad949e85d7496621ecaec5edc336cb40
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: sttext
+  - hash:
+      serializedVersion: 2
       Hash: 748dd2a2a28da4e618912da5ac45684b
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -609,12 +615,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: ad949e85d7496621ecaec5edc336cb40
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: sttext
   platform: 20
   scenePathNames:
   - Assets/real_assets/Scenes/sky1.unity
