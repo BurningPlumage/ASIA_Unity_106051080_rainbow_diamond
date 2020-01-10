@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 13}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 766}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -123,7 +123,7 @@ MonoBehaviour:
   m_MinSize: {x: 787, y: 716}
   m_MaxSize: {x: 18008, y: 18066}
   vertical: 1
-  controlID: 206
+  controlID: 201
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_MinSize: {x: 481, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 201
+  controlID: 204
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_MinSize: {x: 481, y: 344}
   m_MaxSize: {x: 8006, y: 8044}
   vertical: 1
-  controlID: 208
+  controlID: 203
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -376,7 +376,7 @@ MonoBehaviour:
   m_MinSize: {x: 787, y: 716}
   m_MaxSize: {x: 18008, y: 18066}
   vertical: 0
-  controlID: 207
+  controlID: 202
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -454,7 +454,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 17056
+  m_LastSelectedObjectID: 129884
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -994,7 +994,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: fa01ffff4402ffffe002ffff76fbffffa0420000fe750000
+      m_ExpandedIDs: a2cfffffeccfffff88d0ffff8ae8ffffd4e8ffff70e9ffff76fbffff0a660000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1055,7 +1055,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 657
+  m_LastVerticalScrollValue: 0
 --- !u!114 &26
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1095,19 +1095,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/SapphiArt/SapphiArtchan/Animation
+    - Assets/real_assets/script
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/SapphiArt/SapphiArtchan/Animation
+  - Assets/real_assets/script
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\thefi\Desktop\ASIA_Unity_106051080_rainbow_diamond\kid3D
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 22}
-    m_SelectedIDs: c02f0000
-    m_LastClickedID: 12224
+    m_SelectedIDs: bc330000
+    m_LastClickedID: 13244
     m_ExpandedIDs: 00000000182d00009c2d0000862f00009e2f0000963200008c340000d8b60000dab60000dcb60000deb60000e0b60000e2b6000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1309,9 +1309,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.2359214, y: 106.960045, z: 4.839537}
+    m_Target: {x: 17.018753, y: 33.292015, z: 118.72403}
     speed: 2
-    m_Value: {x: 5.2359214, y: 106.960045, z: 4.839537}
+    m_Value: {x: -135.5916, y: 78.68764, z: -20.869604}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1340,13 +1340,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.034592327, y: 0.75774443, z: -0.03201369, w: -0.6521463}
+    m_Target: {x: -0.03227687, y: 0.9734414, z: -0.1660972, w: -0.15962817}
     speed: 2
-    m_Value: {x: -0.034563087, y: 0.7571039, z: -0.031986628, w: -0.651595}
+    m_Value: {x: -0.03224948, y: 0.9726154, z: -0.16595626, w: -0.15949272}
   m_Size:
-    m_Target: 19.356928
+    m_Target: 40.659283
     speed: 2
-    m_Value: 19.356928
+    m_Value: 48.55895
   m_Ortho:
     m_Target: 0
     speed: 2

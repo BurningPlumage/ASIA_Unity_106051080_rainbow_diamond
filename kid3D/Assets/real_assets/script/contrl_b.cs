@@ -31,7 +31,7 @@ public class contrl_b : MonoBehaviour
     public GameObject revive;
     public camaset camar;
 
-    private void Update()
+    private void FixedUpdate()
     {
 
         if (ani.GetCurrentAnimatorStateInfo(0).IsName("Body Animation Layer.hit03") || ani.GetCurrentAnimatorStateInfo(0).IsName("Body Animation Layer.toground"))
